@@ -1,3 +1,14 @@
+# Screenshot
+
+### Weighted Strings
+![screenshot](assets/weighted_strings.png)
+
+### Balanced Bracket
+![screenshot](assets/balanced_bracket.png)
+
+### Highest Palindrome
+![screenshot](assets/highest_palindrome.png)
+
 # Balanced Bracket
 
 ## Function: `isBalanced`
