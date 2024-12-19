@@ -3,11 +3,20 @@
 ### Weighted Strings
 ![screenshot](assets/weighted_strings.png)
 
+### Weighted Strings PHP
+![screenshot](assets/weighted_strings_php.png)
+
 ### Balanced Bracket
 ![screenshot](assets/balanced_bracket.png)
 
+### Balanced Bracket PHP
+![screenshot](assets/balanced_bracket_php.png)
+
 ### Highest Palindrome
 ![screenshot](assets/highest_palindrome.png)
+
+### Highest Palindrome PHP
+![screenshot](assets/highest_palindrome_php.png)
 
 # Balanced Bracket
 
